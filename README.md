@@ -1,1 +1,2 @@
 # Engineering-Design-Group-161
+We are a group of students with different majors. Our goal is to design a smart trash can that will sort the waste it receives automatically. The trash can will be able to sort waste in three categories: metal, plastic, and other. We are using an Arduino UNO as the core of our project, and combining multiple sensors and servos to allow the sorting. Testing codes as well as the main code are available in this repository.
